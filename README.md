@@ -1,2 +1,2 @@
 # photobooth-designs
-Designs to costomize my DIY photobooth.
+Designs to customize my DIY photobooth.
